@@ -1,5 +1,21 @@
-@media screen and (max-widht: 1015px) {
-    .offer__list-item{
+@media screen and (max-width: 1015px) {
+
+    /* .offer__list-item {
         grid-template-columns: 1fr 1fr;
+    } */
+
+    .header__search {
+
+        width: 300px !important;
+    }
+
+    .header__login .subscribe {
+        font-size: 12px;
+        font-weight: 200;
+    }
+
+    .arrow-left,
+    .arrow-right {
+        display: none;
     }
 }

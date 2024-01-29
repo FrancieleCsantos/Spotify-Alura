@@ -6,10 +6,13 @@ Claro, aqui está um exemplo de texto de apresentação:
 
 Apresentação do Projeto Desenvolvido na Imersão Front End
 
-É com grande satisfação que apresentamos o projeto desenvolvido durante a Imersão Front End oferecida pela [Nome da Aula]. Esta imersão consistiu em quatro aulas envolventes e inscríveis, onde exploramos diversas tecnologias e conceitos fundamentais do desenvolvimento web.
+É com grande satisfação que apresentamos o projeto desenvolvido durante a Imersão Front End oferecida pela Alura. Esta imersão consistiu em quatro aulas envolventes e inscríveis, onde exploramos diversas tecnologias e conceitos fundamentais do desenvolvimento web.
 
-Nosso objetivo principal durante esta imersão foi replicar, por meio do desenvolvimento front end, a interface da plataforma Spotipy, um popular serviço de streaming de música. Utilizamos uma combinação de JavaScript, CSS e HTML para alcançar esse objetivo, explorando as melhores práticas e técnicas modernas para criar uma experiência de usuário envolvente e responsiva.
+Nosso objetivo principal durante esta imersão foi replicar, por meio do desenvolvimento front end, a interface da plataforma Spotipy, um popular serviço de streaming de música. Utilizamos uma combinação de JavaScript, CSS e HTML para alcançar esse objetivo, explorando as melhores práticas e técnicas modernas para criar uma experiência de usuário envolvente e responsiva. 
 
+# Confere como ficou :) 
+
+![WhatsApp Image 2024-01-29 at 20 51 07](https://github.com/FrancieleCsantos/Spotify-Alura/assets/104040061/58b5f84e-8ee1-4e2d-92d5-21ee85e841f9)
 
 
 Para rodar o Json Server:

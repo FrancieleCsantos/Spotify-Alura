@@ -1,9 +1,6 @@
 
 ##Treinando Front- End com imersão Alura
 
-
-Claro, aqui está um exemplo de texto de apresentação:
-
 Apresentação do Projeto Desenvolvido na Imersão Front End
 
 É com grande satisfação que apresentamos o projeto desenvolvido durante a Imersão Front End oferecida pela Alura. Esta imersão consistiu em quatro aulas envolventes e inscríveis, onde exploramos diversas tecnologias e conceitos fundamentais do desenvolvimento web.

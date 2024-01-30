@@ -3,7 +3,7 @@
 
 Apresentação do Projeto Desenvolvido na Imersão Front End
 
-É com grande satisfação que apresentamos o projeto desenvolvido durante a Imersão Front End oferecida pela Alura. Esta imersão consistiu em quatro aulas envolventes e inscríveis, onde exploramos diversas tecnologias e conceitos fundamentais do desenvolvimento web.
+É com grande satisfação que apresento o projeto desenvolvido durante a Imersão Front End oferecido pela Alura. Esta imersão consistiu em quatro aulas envolventes e incríveis, onde exploramos diversas tecnologias e conceitos fundamentais do desenvolvimento web.
 
 Nosso objetivo principal durante esta imersão foi replicar, por meio do desenvolvimento front end, a interface da plataforma Spotipy, um popular serviço de streaming de música. Utilizamos uma combinação de JavaScript, CSS e HTML para alcançar esse objetivo, explorando as melhores práticas e técnicas modernas para criar uma experiência de usuário envolvente e responsiva. 
 
